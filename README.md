@@ -1,1 +1,1 @@
-# HugginFace
+# HuggingFace
